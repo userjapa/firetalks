@@ -1,0 +1,6 @@
+import './angular/modules'
+import $ from 'jquery'
+import 'materialize'
+import 'materialize-css/dist/js/materialize.min'
+import 'materialize-css/dist/css/materialize.min.css'
+import './../../css/style.css'
